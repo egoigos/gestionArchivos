@@ -1,0 +1,26 @@
+[
+    {
+        "img":"img/slider1/1.jpg",
+            "h2":"Desarrollo Web",
+            "p":"Desarrollo de Soluciones para tu empresa basados en tecnología web",
+            "a":"Más Info"
+        },
+    {
+        "img":"img/slider1/2.jpg",
+            "h2":"Business Intelligence",
+            "p":"Análisis y reportes del estado de tu empresa en tiempo real",
+            "a":"Más Info"
+    },
+    {
+        "img":"img/slider1/3.jpg",
+            "h2":"WordPress Solutions",
+            "p":"Donde los demás no pueden, sólo complejas soluciones",
+            "a":"Más Info"
+    },
+    {
+        "img":"img/slider1/4.jpg",
+            "h2":"Cloud Solutions",
+            "p":"Despliegue y control de los procesos empresariales 24/7 'anywhere'",
+            "a":"Más Info"
+    }
+]
